@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/matlab/matlab/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2024-09-19T20:30:29.805+08:00","updated":"2024-10-18T15:50:09.329+08:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/matlab/matlab/","dgPassFrontmatter":true,"created":"2024-09-19T20:30:29.805+08:00","updated":"2024-10-18T15:56:11.829+08:00"}
 ---
 
 !运算和指令
