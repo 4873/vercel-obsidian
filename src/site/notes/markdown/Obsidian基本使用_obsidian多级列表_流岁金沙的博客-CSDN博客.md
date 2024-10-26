@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/markdown/Obsidian基本使用_obsidian多级列表_流岁金沙的博客-CSDN博客/","dgPassFrontmatter":true,"created":"2023-09-05T09:59:52.200+08:00","updated":"2024-10-26T21:39:19.000+08:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/markdown/Obsidian基本使用_obsidian多级列表_流岁金沙的博客-CSDN博客/","dgPassFrontmatter":true,"created":"2024-10-26T21:13:56.336+08:00","updated":"2024-10-26T21:32:02.640+08:00"}
 ---
 
 [Obsidian基本使用_obsidian多级列表_流岁金沙的博客-CSDN博客](https://blog.csdn.net/skoyine/article/details/123841436) 

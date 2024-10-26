@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/markdown/MarkDown超级教程 by 成雙醬 - Obsidian中文教程 - Obsidian Publish/","dgPassFrontmatter":true,"created":"2023-09-03T11:10:43.231+08:00","updated":"2024-10-26T21:39:19.000+08:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/markdown/MarkDown超级教程 by 成雙醬 - Obsidian中文教程 - Obsidian Publish/","dgPassFrontmatter":true,"created":"2024-10-26T21:13:56.152+08:00","updated":"2024-10-26T21:31:53.772+08:00"}
 ---
 
 [MarkDown超级教程 by 成雙醬 - Obsidian中文教程 - Obsidian Publish](https://publish.obsidian.md/chinesehelp/01+2021%E6%96%B0%E6%95%99%E7%A8%8B/MarkDown%E8%B6%85%E7%BA%A7%E6%95%99%E7%A8%8B+by+%E6%88%90%E9%9B%99%E9%86%AC#17.+Mermaid) 
